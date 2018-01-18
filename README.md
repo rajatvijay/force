@@ -1,4 +1,4 @@
-# Angular App for [Acadview](https://acadview.com)
+# A frontend framework for fast developement cycles
 
 The app is built to consume a RESTful API.
 
